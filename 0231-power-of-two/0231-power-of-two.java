@@ -1,13 +1,14 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        int power=0;
-        while(Math.pow(2,power)<=n){
-            if(Math.pow(2,power)==n){
-                return true;
+        String bin= Integer.toBinaryString(n);
+        System.out.println(bin);
+        int count=0;
+        for(int i=0; i< bin.length(); i++){
+            count= bin.charAt(i)== '1'? count+1: count;
+            if(count>1 || n<=0){
+                return false;
             }
-            power++;
         }
-        return false;
-        
+        return true;   
     }
 }
