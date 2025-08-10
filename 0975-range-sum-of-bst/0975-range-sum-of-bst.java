@@ -22,11 +22,9 @@ class Solution {
 
         while (!stack.isEmpty()){
             TreeNode temp= stack.peek();
-            System.out.println("The value of temp: "+ temp.val);
-            if(temp!=null){
-                value= low<= temp.val && temp.val<= high? value + temp.val: value;
-                stack.pop();
-            }
+            value= low<= temp.val && temp.val<= high? value + temp.val: value;
+            stack.pop();
+            
             if(temp.right!=null){
                 stack.push(temp.right);
             }
