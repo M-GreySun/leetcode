@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/M-GreySun/leetcode/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/M-GreySun/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M-GreySun/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Graph
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/M-GreySun/leetcode/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M-GreySun/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
