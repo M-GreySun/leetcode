@@ -7,6 +7,7 @@
 | [0231-power-of-two](https://github.com/M-GreySun/leetcode/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/M-GreySun/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M-GreySun/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
 ## Graph
@@ -76,4 +77,16 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
