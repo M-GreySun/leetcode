@@ -8,6 +8,7 @@
 | [0728-self-dividing-numbers](https://github.com/M-GreySun/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M-GreySun/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
 ## Graph
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/M-GreySun/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
