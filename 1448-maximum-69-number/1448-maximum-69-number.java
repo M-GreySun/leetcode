@@ -2,20 +2,16 @@ class Solution {
     public int maximum69Number (int num) {
 
         int pow=-1;
-
-        int count=0;
         int temp=num;
 
-        while(num!=0){
+        for(int i=0; i<4 && num!=0; i++){
             int digit=num%10;
             if(digit==6){
-                pow=count;
+                pow=i;
             }
-            count++;
             num/=10;
         }
         
-        return temp + ((int)Math.pow(10,pow))*3;
-        
+        return temp + ((int)Math.pow(10,pow))*3;  
     }
 }
