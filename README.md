@@ -10,6 +10,7 @@
 | [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M-GreySun/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Graph
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
+## Array
+|  |
+| ------- |
+| [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
