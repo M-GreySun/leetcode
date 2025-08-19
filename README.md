@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/M-GreySun/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/M-GreySun/leetcode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/M-GreySun/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
@@ -19,10 +20,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/M-GreySun/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/M-GreySun/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/M-GreySun/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/M-GreySun/leetcode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
