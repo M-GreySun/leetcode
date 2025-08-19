@@ -1,11 +1,17 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        for(int i=9; i>=0; i--){
-            String temp= String.valueOf(i).repeat(3);
-            if(num.contains(temp)){
-                return temp;
+        int max=0;
+        String str="";
+        for (int i=0; i<=num.length()-3; i++){
+            String temp= num.substring(i, i+3);
+            if (temp.charAt(0)== temp.charAt(1) && temp.charAt(1)== temp.charAt(2)){
+                if (max<= Integer.valueOf(temp)){
+                    str= temp;
+                    max= Integer.valueOf(temp);
+                }
             }
         }
-        return new String ("");
+        return str;
+        
     }
 }
