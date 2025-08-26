@@ -98,6 +98,7 @@
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## String
@@ -107,5 +108,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
