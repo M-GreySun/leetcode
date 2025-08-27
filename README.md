@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M-GreySun/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/M-GreySun/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -115,4 +116,5 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
+| [3811-reverse-degree-of-a-string](https://github.com/M-GreySun/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
