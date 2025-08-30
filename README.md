@@ -45,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/M-GreySun/leetcode/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -115,6 +117,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
