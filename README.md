@@ -21,6 +21,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/M-GreySun/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/M-GreySun/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/M-GreySun/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -100,6 +101,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/M-GreySun/leetcode/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
