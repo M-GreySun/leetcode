@@ -47,6 +47,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/M-GreySun/leetcode/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
+| [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/M-GreySun/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
