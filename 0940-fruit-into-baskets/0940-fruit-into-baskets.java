@@ -46,7 +46,6 @@ class Solution {
                 }
             }
         }
-
         return Math.max(max, basketOne[1]+ basketTwo[1]);        
     }
 }
