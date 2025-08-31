@@ -45,15 +45,8 @@ class Solution {
                     basketOne[2]=0;
                 }
             }
-            //printValues(basketOne, basketTwo);
         }
 
         return Math.max(max, basketOne[1]+ basketTwo[1]);        
-    }
-
-    public void printValues(int []one, int []two){
-        System.out.println(Arrays.toString(one));
-        System.out.println(Arrays.toString(two));
-        System.out.println("\n");
     }
 }
