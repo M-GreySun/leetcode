@@ -11,6 +11,7 @@
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-GreySun/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/M-GreySun/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M-GreySun/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/M-GreySun/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/M-GreySun/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/M-GreySun/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/M-GreySun/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/M-GreySun/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-GreySun/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/M-GreySun/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
