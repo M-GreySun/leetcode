@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
+| [0290-word-pattern](https://github.com/M-GreySun/leetcode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -119,6 +120,7 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/M-GreySun/leetcode/tree/master/0290-word-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-GreySun/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M-GreySun/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/M-GreySun/leetcode/tree/master/3811-reverse-degree-of-a-string) |
