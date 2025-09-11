@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -127,6 +128,7 @@
 | [0290-word-pattern](https://github.com/M-GreySun/leetcode/tree/master/0290-word-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-GreySun/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M-GreySun/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/M-GreySun/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
