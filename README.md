@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
+| [0229-majority-element-ii](https://github.com/M-GreySun/leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/M-GreySun/leetcode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
@@ -65,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/M-GreySun/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/M-GreySun/leetcode/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -72,6 +74,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/M-GreySun/leetcode/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M-GreySun/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -129,6 +132,7 @@
 | [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/M-GreySun/leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/M-GreySun/leetcode/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/M-GreySun/leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/M-GreySun/leetcode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
