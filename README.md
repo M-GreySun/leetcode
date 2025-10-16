@@ -46,6 +46,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/M-GreySun/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M-GreySun/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/M-GreySun/leetcode/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/M-GreySun/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/M-GreySun/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Hash Table
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M-GreySun/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/M-GreySun/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/M-GreySun/leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/M-GreySun/leetcode/tree/master/0136-single-number) |
