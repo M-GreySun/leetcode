@@ -11,12 +11,10 @@ class Solution {
                 freq.put(ele, 1);
             }
         }
-        System.out.println(freq);
         for(Map.Entry <Integer, Integer> ele: freq.entrySet()){
             if(ele.getKey().equals(ele.getValue()) && ele.getKey()>ans){
                 ans=ele.getKey();
             }
-            System.out.println("Inside the bottom for loop");
         }
         return ans;
     }
