@@ -64,6 +64,7 @@
 | [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/M-GreySun/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1848-sum-of-unique-elements](https://github.com/M-GreySun/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M-GreySun/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -82,6 +83,7 @@
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/M-GreySun/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1848-sum-of-unique-elements](https://github.com/M-GreySun/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M-GreySun/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
@@ -147,6 +149,7 @@
 | [1293-three-consecutive-odds](https://github.com/M-GreySun/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/M-GreySun/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1848-sum-of-unique-elements](https://github.com/M-GreySun/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
