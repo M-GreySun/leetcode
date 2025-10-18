@@ -74,6 +74,7 @@
 | [0455-assign-cookies](https://github.com/M-GreySun/leetcode/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M-GreySun/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -120,6 +121,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/M-GreySun/leetcode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M-GreySun/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M-GreySun/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-GreySun/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
