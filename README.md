@@ -154,6 +154,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/M-GreySun/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1848-sum-of-unique-elements](https://github.com/M-GreySun/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/M-GreySun/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -180,6 +181,7 @@
 | [0036-valid-sudoku](https://github.com/M-GreySun/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/M-GreySun/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/M-GreySun/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
@@ -188,6 +190,7 @@
 | [0054-spiral-matrix](https://github.com/M-GreySun/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/M-GreySun/leetcode/tree/master/1642-water-bottles) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/M-GreySun/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-GreySun/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/M-GreySun/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Segment Tree
