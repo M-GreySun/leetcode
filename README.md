@@ -219,4 +219,16 @@
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/M-GreySun/leetcode/tree/master/2625-increment-submatrices-by-one) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/M-GreySun/leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/M-GreySun/leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/M-GreySun/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
