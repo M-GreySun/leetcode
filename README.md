@@ -156,6 +156,7 @@
 | [1848-sum-of-unique-elements](https://github.com/M-GreySun/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/M-GreySun/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2625-increment-submatrices-by-one](https://github.com/M-GreySun/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -182,6 +183,7 @@
 | [0054-spiral-matrix](https://github.com/M-GreySun/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/M-GreySun/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/M-GreySun/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/M-GreySun/leetcode/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
