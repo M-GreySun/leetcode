@@ -16,6 +16,7 @@
 | [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/M-GreySun/leetcode/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/M-GreySun/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/M-GreySun/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/M-GreySun/leetcode/tree/master/3830-find-closest-person) |
 ## Graph
@@ -53,6 +54,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/M-GreySun/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/M-GreySun/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/M-GreySun/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [2481-strictly-palindromic-number](https://github.com/M-GreySun/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/M-GreySun/leetcode/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/M-GreySun/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
