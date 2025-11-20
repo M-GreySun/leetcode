@@ -110,6 +110,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/M-GreySun/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0975-range-sum-of-bst](https://github.com/M-GreySun/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/M-GreySun/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-GreySun/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -153,6 +154,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/M-GreySun/leetcode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/M-GreySun/leetcode/tree/master/0498-diagonal-traverse) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/M-GreySun/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0837-most-common-word](https://github.com/M-GreySun/leetcode/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/M-GreySun/leetcode/tree/master/1293-three-consecutive-odds) |
