@@ -17,6 +17,7 @@
 | [1642-water-bottles](https://github.com/M-GreySun/leetcode/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/M-GreySun/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/M-GreySun/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/M-GreySun/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/M-GreySun/leetcode/tree/master/3830-find-closest-person) |
 ## Graph
@@ -165,6 +166,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/M-GreySun/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2625-increment-submatrices-by-one](https://github.com/M-GreySun/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/M-GreySun/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
