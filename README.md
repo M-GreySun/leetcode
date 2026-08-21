@@ -72,6 +72,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/M-GreySun/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/M-GreySun/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/M-GreySun/leetcode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M-GreySun/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/M-GreySun/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M-GreySun/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3731-find-missing-elements](https://github.com/M-GreySun/leetcode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -172,6 +174,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/M-GreySun/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M-GreySun/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3731-find-missing-elements](https://github.com/M-GreySun/leetcode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-GreySun/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
