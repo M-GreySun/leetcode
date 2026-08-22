@@ -70,6 +70,7 @@
 | [0837-most-common-word](https://github.com/M-GreySun/leetcode/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/M-GreySun/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/M-GreySun/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1848-sum-of-unique-elements](https://github.com/M-GreySun/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -98,6 +99,7 @@
 | [0229-majority-element-ii](https://github.com/M-GreySun/leetcode/tree/master/0229-majority-element-ii) |
 | [0837-most-common-word](https://github.com/M-GreySun/leetcode/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/M-GreySun/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M-GreySun/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/M-GreySun/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1848-sum-of-unique-elements](https://github.com/M-GreySun/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -195,6 +197,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/M-GreySun/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0837-most-common-word](https://github.com/M-GreySun/leetcode/tree/master/0837-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-GreySun/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/M-GreySun/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M-GreySun/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/M-GreySun/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
