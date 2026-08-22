@@ -4,7 +4,6 @@ class Solution {
         // one b, one a , one n
         // two l and two o
         int [] letters = new int [5];
-        int ans=0;
         for(int i=0; i<text.length(); i++){
             if(text.charAt(i)== 'b'){
                 letters[0]++;
@@ -22,15 +21,10 @@ class Solution {
                 letters[4] ++;
             }
 
-            if ( letters[2]>=2 && letters[3]>=2 && letters[0]>0 && letters[1]>0 && letters[4] >0){
-                ans++;
-                letters[0]--;
-                letters[1]--;
-                letters[2]-=2;
-                letters[3]-=2;
-                letters[4]--;
-            }
         }
-        return ans;
+        letters[2]/=2;
+        letters[3]/=2;
+
+        return Math.min(Math.min(Math.min(letters[0], letters[1]), Math.min(letters[2],letters[3])) , letters[4]);
     }
 }
