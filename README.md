@@ -20,6 +20,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/M-GreySun/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/M-GreySun/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/M-GreySun/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/M-GreySun/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/M-GreySun/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3830-find-closest-person](https://github.com/M-GreySun/leetcode/tree/master/3830-find-closest-person) |
 ## Graph
@@ -86,6 +87,7 @@
 | [0900-reordered-power-of-2](https://github.com/M-GreySun/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/M-GreySun/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/M-GreySun/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M-GreySun/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3731-find-missing-elements](https://github.com/M-GreySun/leetcode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/M-GreySun/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
