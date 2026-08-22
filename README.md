@@ -17,6 +17,7 @@
 | [1642-water-bottles](https://github.com/M-GreySun/leetcode/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/M-GreySun/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/M-GreySun/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/M-GreySun/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/M-GreySun/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/M-GreySun/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/M-GreySun/leetcode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/M-GreySun/leetcode/tree/master/1448-maximum-69-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/M-GreySun/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M-GreySun/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Dynamic Programming
 |  |
@@ -192,6 +194,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-GreySun/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M-GreySun/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/M-GreySun/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/M-GreySun/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3811-reverse-degree-of-a-string](https://github.com/M-GreySun/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M-GreySun/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
