@@ -3,13 +3,13 @@ class Solution {
         int one =0;
         int two =0;
 
-        for(int i=n; i!= 0; i/=10){
-            if(one< i%10){
+        for( ; n!= 0; n/=10){
+            if(one< n%10){
                 two=one;
-                one=i%10;
+                one=n%10;
             }
-            else if(two < i%10){
-                two= i%10;
+            else if(two < n%10){
+                two= n%10;
             }
         }
         return one *two;  
