@@ -73,6 +73,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/M-GreySun/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/M-GreySun/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/M-GreySun/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/M-GreySun/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/M-GreySun/leetcode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M-GreySun/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -174,6 +175,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M-GreySun/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/M-GreySun/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/M-GreySun/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M-GreySun/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3731-find-missing-elements](https://github.com/M-GreySun/leetcode/tree/master/3731-find-missing-elements) |
