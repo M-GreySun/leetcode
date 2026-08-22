@@ -171,6 +171,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/M-GreySun/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/M-GreySun/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2625-increment-submatrices-by-one](https://github.com/M-GreySun/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/M-GreySun/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/M-GreySun/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M-GreySun/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -212,6 +213,7 @@
 | [1642-water-bottles](https://github.com/M-GreySun/leetcode/tree/master/1642-water-bottles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/M-GreySun/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/M-GreySun/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/M-GreySun/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/M-GreySun/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/M-GreySun/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Segment Tree
