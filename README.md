@@ -19,6 +19,7 @@
 | [2481-strictly-palindromic-number](https://github.com/M-GreySun/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/M-GreySun/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/M-GreySun/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/M-GreySun/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3830-find-closest-person](https://github.com/M-GreySun/leetcode/tree/master/3830-find-closest-person) |
 ## Graph
 |  |
