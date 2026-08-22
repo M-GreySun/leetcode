@@ -70,6 +70,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/M-GreySun/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1848-sum-of-unique-elements](https://github.com/M-GreySun/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/M-GreySun/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/M-GreySun/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M-GreySun/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/M-GreySun/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/M-GreySun/leetcode/tree/master/3731-find-missing-elements) |
@@ -187,6 +188,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/M-GreySun/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M-GreySun/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/M-GreySun/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/M-GreySun/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3811-reverse-degree-of-a-string](https://github.com/M-GreySun/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M-GreySun/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/M-GreySun/leetcode/tree/master/0940-fruit-into-baskets) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/M-GreySun/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Interactive
 |  |
 | ------- |
