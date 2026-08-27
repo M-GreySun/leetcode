@@ -6,7 +6,7 @@ class Solution {
             values.add(ele);
         }
         
-        for(int i=k; i<= Integer.MAX_VALUE; i+=k){
+        for(int i=k; i<= 200; i+=k){
             if(!values.contains(i)){
                 return i;
             }
